@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  color: dodgerblue;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: #e5e5e5;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+main {
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  padding: 40px;
+}
+
+button.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+
+
+
+
+
+
